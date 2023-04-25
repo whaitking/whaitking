@@ -17,8 +17,12 @@
 ![Cascading Style Sheets](https://img.shields.io/badge/-CSS-0c73b8?style=flat-square&logo=css3&logoColor=0c73b8&labelColor=1e1e1e)
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript-e7a328?style=flat-square&logo=javascript&logoColor=e7a328&labelColor=1e1e1e)
 ![PHP](https://img.shields.io/badge/-%20PHP-4218FF?style=flat-square&logo=php&logoColor=4218FF&labelColor=1e1e1e)
+![TypeScript](https://img.shields.io/badge/-%20TypeScript-4218FF?style=flat-square&logo=typescrip&logoColor=4218FF&labelColor=1e1e1e)
 
 
 ## Frame Works:
-![ANGULAR](https://img.shields.io/badge/-%20ANGULAR-AB2525?style=flat-square&logo=angular&logoColor=AB2525&labelColor=1e1e1e)
+![Angular](https://img.shields.io/badge/-%20Angular-AB2525?style=flat-square&logo=angular&logoColor=AB2525&labelColor=1e1e1e)
+![Laravel](https://img.shields.io/badge/-%20Laravel-DD7126?style=flat-square&logo=laravel&logoColor=DD7126&labelColor=1e1e1e)
+![Laminas](https://img.shields.io/badge/-%20Laminas-76DD26?style=flat-square&logo=laminas&logoColor=76DD26&labelColor=1e1e1e)
+![CodeIgniter](https://img.shields.io/badge/-%20CodeIgniter-A9511B?style=flat-square&logo=codeigniter&logoColor=A9511B&labelColor=1e1e1e)
 
