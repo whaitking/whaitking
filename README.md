@@ -7,6 +7,7 @@
 ![python](https://img.shields.io/badge/-Python-ecec09?style=flat-square&logo=python&logoColor=w3d85c6&labelColor=1e1e1e)
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-ea1b23?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1e1e)
 ![MySql](https://img.shields.io/badge/-MySql%20-0b5394?style=flat-square&logo=mysql&logoColor=white&labelColor=1e1e1e)
+![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin%20-0b5394?style=flat-square&logo=phpmyadmin&logoColor=white&labelColor=1e1e1e)
 
 ### Version Controll:
 ![git](https://img.shields.io/badge/-Git-ea1b23?style=flat-square&logo=git&logoColor=ea1b23&labelColor=1e1e1e)
