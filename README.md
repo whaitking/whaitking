@@ -1,4 +1,4 @@
-<img src=giphy.gif align=middle width =900px height = 200px/></br>
+<img src=Pràctica-1-Animació-Eva-Elies-(avió-de-paper).gif align=middle width =900px height = 200px/></br>
 
 # Software Development Junior
 
