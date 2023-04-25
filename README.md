@@ -1,4 +1,4 @@
-<img src=welcome.gif align=middle width =900px height = 200px/></br>
+<img src=giphy.gif align=middle width =900px height = 200px/></br>
 
 # Software Development Junior
 
