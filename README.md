@@ -4,6 +4,7 @@
 
 ## I am a junior programmer with a strong focus on backend development. However, I also have experience with frameworks such as Angular. I am constantly seeking new challenges and opportunities to grow my skills and knowledge in the field of software development.
 
+
 ### Software Development:
 ![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
 ![python](https://img.shields.io/badge/-Python-ecec09?style=flat-square&logo=python&logoColor=w3d85c6&labelColor=1e1e1e)
