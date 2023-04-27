@@ -36,5 +36,7 @@
 ![CodeIgniter](https://img.shields.io/badge/-%20CodeIgniter-A9511B?style=flat-square&logo=codeigniter&logoColor=A9511B&labelColor=1e1e1e)
 
 
+ 
+[![](https://visitcount.itsvg.in/api?id=whaitking&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
