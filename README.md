@@ -1,6 +1,8 @@
 
 # Software Development Junior
 
+<img src=Pràctica-1-Animació-Eva-Elies-(avió-de-paper).gif align=middle width =900px height = 200px/>
+
 ## I am a junior programmer with a strong focus on backend development. However, I also have experience with frameworks such as Angular. I am constantly seeking new challenges and opportunities to grow my skills and knowledge in the field of software development.
 
 <div align="center">
@@ -34,6 +36,5 @@
 ![Laminas](https://img.shields.io/badge/-%20Laminas-76DD26?style=flat-square&logo=zendframework&logoColor=76DD26&labelColor=1e1e1e)
 ![CodeIgniter](https://img.shields.io/badge/-%20CodeIgniter-A9511B?style=flat-square&logo=codeigniter&logoColor=A9511B&labelColor=1e1e1e)
 
-<img src=Pràctica-1-Animació-Eva-Elies-(avió-de-paper).gif align=middle width =900px height = 200px/>
 
 
