@@ -1,3 +1,4 @@
+<div align="center">
 
 # Software Development Junior
 
@@ -5,11 +6,9 @@
 
 ## I am a junior programmer with a strong focus on backend development. However, I also have experience with frameworks such as Angular. I am constantly seeking new challenges and opportunities to grow my skills and knowledge in the field of software development.
 
-<div align="">
 
 ![Metrics](https://metrics.lecoq.io/whaitking?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&lines=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FMadrid)
 
-</div>
 
 ### Software Development:
 ![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
@@ -37,4 +36,5 @@
 ![CodeIgniter](https://img.shields.io/badge/-%20CodeIgniter-A9511B?style=flat-square&logo=codeigniter&logoColor=A9511B&labelColor=1e1e1e)
 
 
+</div>
 
