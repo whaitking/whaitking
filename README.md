@@ -35,6 +35,7 @@
 ![Laravel](https://img.shields.io/badge/-%20Laravel-DD7126?style=flat-square&logo=laravel&logoColor=DD7126&labelColor=1e1e1e)
 ![Laminas](https://img.shields.io/badge/-%20Laminas-76DD26?style=flat-square&logo=zendframework&logoColor=76DD26&labelColor=1e1e1e)
 ![CodeIgniter](https://img.shields.io/badge/-%20CodeIgniter-A9511B?style=flat-square&logo=codeigniter&logoColor=A9511B&labelColor=1e1e1e)
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 ##
 [![](https://visitcount.itsvg.in/api?id=whaitking&icon=0&color=0)](https://visitcount.itsvg.in)
