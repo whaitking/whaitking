@@ -32,7 +32,8 @@
 ![Bootstrap](https://img.shields.io/badge/-%20Bootstrap-8C1DD5?style=flat-square&logo=bootstrap&logoColor=8C1DD5&labelColor=1e1e1e)
 
 ##
-  ![WhaitKing GitHub stats](https://github-readme-stats.vercel.app/api?username=whaitking&theme=tokyonight&show_icons=true)
+![WhaitKing GitHub stats](https://github-readme-stats.vercel.app/api?username=whaitking&theme=tokyonight&show_icons=true)
+<br>  
 [![](https://visitcount.itsvg.in/api?id=whaitking&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
