@@ -5,11 +5,6 @@
 <img src=Pràctica-1-Animació-Eva-Elies-(avió-de-paper).gif align=middle width =900px height = 200px/>
 
 ## I am a aspirant programmer with a strong focus on backend development. However, I also have experience with frameworks such as Angular. I am constantly seeking new challenges and opportunities to grow my skills and knowledge in the field of software development.
-
-
-![WhaitKing GitHub stats](https://github-readme-stats.vercel.app/api?username=whaitking&theme=tokyonight&show_icons=true)
-
-##
   
 ### Software Development:
 ![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
@@ -37,6 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/-%20Bootstrap-8C1DD5?style=flat-square&logo=bootstrap&logoColor=8C1DD5&labelColor=1e1e1e)
 
 ##
+  ![WhaitKing GitHub stats](https://github-readme-stats.vercel.app/api?username=whaitking&theme=tokyonight&show_icons=true)
 [![](https://visitcount.itsvg.in/api?id=whaitking&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
